@@ -1,6 +1,3 @@
-# Analysis-Zomato-data-with-python and Visualization with Power-Bi
-![image](https://github.com/ritikaga/Data-Analysis-of-Zomato-Restaurant/assets/66274316/c358d249-02e2-4bc2-932b-387fdf56d469)
-
 ## Project Objective
 In this project, we investigate a dataset that carries approximate facts about restaurant chains all over the world. The project's main aim is to perform descriptive and statistical analysis based on a few goals designed.
 
