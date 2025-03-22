@@ -37,4 +37,4 @@ The analysis that we are going to perform shall answer the following questions:
   visitors, etc.
 * It is easy for frequent visitor's filter based on the average cost for two, votes, the aggregate rating, cuisines, etc. This can be done before 
   visiting the restaurant
->>>>>>> master
+
