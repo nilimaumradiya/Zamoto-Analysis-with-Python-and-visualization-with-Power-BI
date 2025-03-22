@@ -78,5 +78,4 @@ print(df.Country.value_counts())
 
 
 #downlaod data
-#df.to_csv(r"C:\Users\ritik\OneDrive\Documents\project data analysis\Power bi project\Zamoto project\zomato.csv")
 print(df.to_string)
